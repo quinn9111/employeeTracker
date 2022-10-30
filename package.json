@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
+  },
+  "name": "employeetracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quinn9111/employeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quinn9111/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/quinn9111/employeeTracker#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
