@@ -19,3 +19,5 @@
 * THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 View video here: https://drive.google.com/file/d/1wvHzsGPN-bNYY9ociIPJbr9ZESenQmB0/view
+
+![image](https://user-images.githubusercontent.com/109930505/198900047-37d1073e-7421-4ce2-8fa4-94f511ef3c48.png)
